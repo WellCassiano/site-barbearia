@@ -4,6 +4,6 @@
 
 >  Para rodar esse projeto em sua máquina , por favor instalar:
 
-`````
+```
 Sublime ou Visual Studio Code - HTML - CSS - JAVASCRIPT
 ```
